@@ -1,4 +1,34 @@
 body {
-  background-color: red;
-  color: blue;
+  background-color: #e3cd87;
+  color: #262d5c;
+}
+
+ul {
+  background-color: orange;
+  color: #262d5c;
+}
+
+h4 {
+  background-color: #e3a58a;
+  color:#262d5c;
+}
+
+p {
+  background-color: #e3a58a;
+  color: #262d5c;
+}
+
+li {
+  background-color: #e3a58a;
+  color: red;
+}
+
+h2 {
+  background-color:   #8ab9c3;
+  color: #262d5c;
+}
+
+h1 {
+  background-color: #e3a58a;
+  color: e3cd87;
 }

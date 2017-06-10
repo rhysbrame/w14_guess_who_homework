@@ -1,4 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react'
+import { Link } from 'react-router-dom'
+
+// import React from 'react';
+import CharacterCard from '../components/CharacterCard'
 
 class Game extends React.Component {
   constructor(props) {
@@ -9,7 +13,8 @@ class Game extends React.Component {
   render() {
     return (
       <div>
-        Game of Guess Who?
+        <h2>Game of Guess Who?</h2>
+        <CharacterCard />
       </div>
       )
   }
